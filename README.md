@@ -13,3 +13,11 @@ A collection of handy resources for understanding font performance on the web
 - [Gaining Security and Privacy by partioning the cache](https://developer.chrome.com/blog/http-cache-partitioning), Google
 - [Shared cache is going away](https://www.jefftk.com/p/shared-cache-is-going-away), Jeff Kaufman
 - [Cache partitioning in Firefox and Chrome](https://www.peakhour.io/blog/cache-partitioning-firefox-chrome/), Peak Hour
+
+## Variable Fonts
+- [VariableFonts.Dev](https://variablefonts.dev)
+- [VariableFonts.io](https://variablefonts.io)
+
+## Subsetting
+- [subsetting.xyz](https://subsetting.xyz)
+
