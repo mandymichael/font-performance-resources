@@ -21,3 +21,16 @@ A collection of handy resources for understanding font performance on the web
 ## Subsetting
 - [subsetting.xyz](https://subsetting.xyz)
 
+## Loading and Display
+- [Automatic font matching for minimal CLS tool](https://www.industrialempathy.com/perfect-ish-font-fallback/?font=Oswald), Malte Ubl
+- [Font style matcher](https://meowni.ca/font-style-matcher/), Monica Dinculescu
+- [Font Best Practices](https://web.dev/articles/font-best-practices), Katie Hempenius & Barry Pollard
+
+
+### font-size-adjust / size-adjust
+- [Font Size Adjust Aspect Ratio Calculator](https://clagnut.com/sandbox/font-size-adjust-ex.html), Richard Rutter
+- [size-adjust testing tool](https://codepen.io/mandymichael/pen/YzmNxZy), Mandy Michael
+- [x-height tool](https://www.brunildo.org/test/xheight.pl), Bruno  Fassino
+- [CSS size-adjust for @font-face](https://web.dev/articles/css-size-adjust), Adam Argyle
+- [Estimating the x-height of a font](https://jkorpela.fi/x-height.html), Jukka “Yucca” Korpela
+
