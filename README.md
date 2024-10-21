@@ -1,4 +1,4 @@
-# For Performance Resources
+# Font Performance Resources
 A collection of handy resources for understanding font performance on the web
 
 ## Web Font Almanac
@@ -7,7 +7,8 @@ A collection of handy resources for understanding font performance on the web
 ## Testing
 - [Webpage test](https://www.webpagetest.org/)
 - [Webfont Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/), Paul Calvano
-
+- [wakamaifondue.com](https://wakamaifondue.com/), Roel Nieskens
+- 
 ## Hosting
 
 - [Gaining Security and Privacy by partioning the cache](https://developer.chrome.com/blog/http-cache-partitioning), Google
@@ -34,4 +35,13 @@ A collection of handy resources for understanding font performance on the web
 - [x-height tool](https://www.brunildo.org/test/xheight.pl), Bruno  Fassino
 - [CSS size-adjust for @font-face](https://web.dev/articles/css-size-adjust), Adam Argyle
 - [Estimating the x-height of a font](https://jkorpela.fi/x-height.html), Jukka “Yucca” Korpela
+
+## People
+- [Malte Ubl](https://www.industrialempathy.com/about/)
+- [Zach Leatherman](https://www.zachleat.com/)
+- [Monica Dinculescu](https://meowni.ca/)
+- [Richard Rutter](https://clagnut.com/)
+- [Paul Calvano](https://paulcalvano.com/about/)
+- [Roel Nieskens](https://pixelambacht.nl/)
+
 
