@@ -25,6 +25,7 @@ A collection of handy resources for understanding font performance on the web
 - [Automatic font matching for minimal CLS tool](https://www.industrialempathy.com/perfect-ish-font-fallback/?font=Oswald), Malte Ubl
 - [Font style matcher](https://meowni.ca/font-style-matcher/), Monica Dinculescu
 - [Font Best Practices](https://web.dev/articles/font-best-practices), Katie Hempenius & Barry Pollard
+- [crossorigin=”anonymous”](https://words.getsubsecond.com/crossorigin-anonymous-98c9e866bc0c), Jones
 
 
 ### font-size-adjust / size-adjust
