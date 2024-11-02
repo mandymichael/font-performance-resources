@@ -6,11 +6,9 @@ A collection of handy resources for understanding font performance on the web
 
 ## Testing
 - [Webpage test](https://www.webpagetest.org/)
-- [Webfont Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/), Paul Calvano
 - [wakamaifondue.com](https://wakamaifondue.com/), Roel Nieskens
 - 
 ## Hosting
-
 - [Gaining Security and Privacy by partioning the cache](https://developer.chrome.com/blog/http-cache-partitioning), Google
 - [Shared cache is going away](https://www.jefftk.com/p/shared-cache-is-going-away), Jeff Kaufman
 - [Cache partitioning in Firefox and Chrome](https://www.peakhour.io/blog/cache-partitioning-firefox-chrome/), Peak Hour
@@ -21,13 +19,19 @@ A collection of handy resources for understanding font performance on the web
 
 ## Subsetting
 - [subsetting.xyz](https://subsetting.xyz)
+- [Unicode rande interchange](https://www.zachleat.com/unicode-range-interchange), Zach Leatherman
+- [Webfont Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/), Paul Calvano
+
+## Incremental Font Transfer
+- [Incremental Font Transfer W3C Working Draft](https://www.w3.org/TR/2024/WD-IFT-20240709/)
+- [Progressive Font Enrichment: reinventing web font performance](https://rwt.io/typography-tips/progressive-font-enrichment-reinventing-web-font-performance), Jason Pamental
+-[Incremental Font Transfer Demo](https://garretrieger.github.io/ift-demo), Garret Rieger
 
 ## Loading and Display
 - [Automatic font matching for minimal CLS tool](https://www.industrialempathy.com/perfect-ish-font-fallback/?font=Oswald), Malte Ubl
 - [Font style matcher](https://meowni.ca/font-style-matcher/), Monica Dinculescu
 - [Font Best Practices](https://web.dev/articles/font-best-practices), Katie Hempenius & Barry Pollard
 - [crossorigin=”anonymous”](https://words.getsubsecond.com/crossorigin-anonymous-98c9e866bc0c), Jones
-
 
 ### font-size-adjust / size-adjust
 - [Font Size Adjust Aspect Ratio Calculator](https://clagnut.com/sandbox/font-size-adjust-ex.html), Richard Rutter
