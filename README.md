@@ -7,6 +7,7 @@ A collection of handy resources for understanding font performance on the web
 ## Testing
 - [Webpage test](https://www.webpagetest.org/)
 - [wakamaifondue.com](https://wakamaifondue.com/), Roel Nieskens
+- [INP Debugger](https://www.debugbear.com/inp-debugger)
 - 
 ## Hosting
 - [Gaining Security and Privacy by partioning the cache](https://developer.chrome.com/blog/http-cache-partitioning), Google
@@ -39,6 +40,9 @@ A collection of handy resources for understanding font performance on the web
 - [x-height tool](https://www.brunildo.org/test/xheight.pl), Bruno  Fassino
 - [CSS size-adjust for @font-face](https://web.dev/articles/css-size-adjust), Adam Argyle
 - [Estimating the x-height of a font](https://jkorpela.fi/x-height.html), Jukka “Yucca” Korpela
+- [CanIUse font-size-adjust](https://caniuse.com/?search=font-size-adjust)
+- [CanIUse size-adjust](https://caniuse.com/mdn-css_at-rules_font-face_size-adjust)
+- 
 
 ## People
 - [Malte Ubl](https://www.industrialempathy.com/about/)
